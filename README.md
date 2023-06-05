@@ -1,1 +1,1 @@
-# Quiz App using JavaScript
+# Quiz App using HTML, CSS, JavaScript
